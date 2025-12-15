@@ -1,0 +1,13 @@
+venv/
+.venv/
+Include/
+Lib/
+Scripts/
+etc/
+share/
+pyvenv.cfg
+__pycache__/
+*.pyc
+.env
+.DS_Store
+.vscode/
