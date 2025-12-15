@@ -1,6 +1,9 @@
 🤖 RAG Chat Assistant (LangChain v1 + Pinecone + Hugging Face + Streamlit)
 
-A production style Retrieval Augmented Generation(RAG) application that allows users to upload multiple documents and ask conversational questions related to the uploaded content.
+A production style Retrieval Augmented Generation(RAG) application that allows users to upload multiple documents and ask conversational questions related to the uploaded content. Deployed on HuggingFace Spaces
+
+Live Demo :
+🔗 https://huggingface.co/spaces/deejay14/Personalized-RAG-Assistant
 
 Tech Stack :
 - Frontend          :   Streamlit  
