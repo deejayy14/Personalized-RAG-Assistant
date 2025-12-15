@@ -51,6 +51,11 @@ Architecture Explanation :
 7. Evaluation
    - Retrieval relevance scoring displayed per answer
 
+Author:
+Dhananjay,
+B.Tech CSE(AI),
+Aspiring ML/LLM Engineer.
+
 
 🔧 Setup Instructions:
  ```bash
@@ -62,9 +67,5 @@ streamlit run app.py
 HUGGINGFACE_API_TOKEN=your_token_here
 PINECONE_API_KEY=your_key_here]
 
-Author
-Dhananjay
-B.Tech CSE(AI)
-Aspiring ML/LLM Engineer
 
 
